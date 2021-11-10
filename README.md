@@ -1,4 +1,4 @@
-﻿# STA 9760 - Project 2
+﻿# Analzing Yelp Reviews
 ### Brendan Philbin, 11/24/2020
 
 ## 1. Introduction
@@ -20,13 +20,6 @@ Link: https://stackoverflow.com/questions/40337744/scalenormalise-a-column-in-sp
 
 
 
-### Cluster Configuration
-
-![cluster_image](assets/cluster_configuration.png)
-
-### Notebook Configuration
-![notebook_image](assets/notebook_configuration.png)
-
 ## 2. Analysis
 The supplied code provides written and visual answers to the following questions:
 
@@ -36,10 +29,7 @@ The supplied code provides written and visual answers to the following questions
 	- Do these ratings skew in a negative bias?
 	- For users that carry an "elite" ranking, how do their star ratings compare to the average ranking for all users?
 
-## 3. Contact Me
-For any follow-up questions, please contact me at:
 
-BRENDAN_PHILBIN@baruchmail.cuny.edu
 
 
 
